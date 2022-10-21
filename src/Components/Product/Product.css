@@ -1,0 +1,73 @@
+.card {
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+
+.body {
+    margin: 0px 19px;
+
+}
+.body h3 {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 25px;
+letter-spacing: 0.0015em;
+color: #0E161A;
+margin: 10px 0px;
+}
+.body h4 {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+letter-spacing: 0.0015em;
+color: #0E161A;
+margin: 10px 0px;
+}
+
+.body p {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 14px;
+letter-spacing: 0.004em;
+
+color: #2A414F;
+}
+
+
+.imgContainer {
+    padding: 7px;
+}
+
+.imgContainer img {
+    border-radius: 8px;
+}
+
+.subInfo {
+    margin-top: 36px;
+    margin-bottom: 60px;
+}
+
+.btn {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #FFE0B3;
+    border: none;
+    padding: 13px 20px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.cartBtnIcon {
+    margin-left: 15px;
+}

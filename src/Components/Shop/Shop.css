@@ -1,0 +1,22 @@
+.shopContainer {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.productContainer {
+    /* border: 2px solid black; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    margin: 80px 100px;
+}
+
+.productContainer img {
+    width: 100%;
+}
+
+.orderSummary {
+    /* border: 2px solid black; */
+    background-color: #ff9a0236;
+}
+
